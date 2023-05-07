@@ -1,3 +1,45 @@
+*.npy
+*.jpg
+*.pth
+data/
+workloads/
+simple_weight_stationary/alexnet/
+simple_weight_stationary/mnist/
+
+#
+# Ignore emacs backup files
+#
+*~
+\#*\#
+
+#
+# Ignore shell files
+#
+**/.profile
+**/.bashrc
+**/.cache
+**/.workloads
+**/.config
+.ideas
+.local
+.vscode
+
+#
+# Ignore python-related files
+#
+**/__pycache__
+**/.ipynb_checkpoints
+**/.ipython
+**/.jupyter
+**/.python_history
+
+#
+# Ignore application specific files
+#
+**/*.mp4
+**/profiles
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
