@@ -15,11 +15,11 @@ import pytorch2timeloop
 # model_name = "vgg11"
 # net = models.vgg11()
 
-# model_name = "vgg16"
-# net = models.vgg16()
+model_name = "vgg16"
+net = models.vgg16()
 
-model_name = "densenet121"
-net = models.densenet121()
+# model_name = "densenet121"
+# net = models.densenet121()
 
 # Define the shape of a single input sample, in the following format:
 # (# of channels, height, width)
