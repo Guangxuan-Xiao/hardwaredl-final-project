@@ -47,5 +47,5 @@ def test(name, root):
 
 def main():
     imagenet_root = ""
-    for model_name in ['alexnet', 'vgg11', 'resnet18', 'resnet50', 'vgg16', 'densenet121']:
+    for model_name in ['alexnet', 'vgg11', 'resnet18', 'mobilenet_v2', 'squeezenet1_1']:
         test(model_name, imagenet_root)
