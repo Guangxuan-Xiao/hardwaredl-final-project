@@ -1,7 +1,7 @@
 # Benchmarking ImageNet Classification Models 
 
-6.5930 Hardware Arch for Deep Learning Final Project
-# Authors: Guangxuan Xiao, Tianwei Yin
+MIT 6.5930 Hardware Arch for Deep Learning Final Project
+### Guangxuan Xiao, Tianwei Yin
 
 # Workloads 
 
