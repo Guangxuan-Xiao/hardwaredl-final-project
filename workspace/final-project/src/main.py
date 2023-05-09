@@ -22,9 +22,12 @@ model_dict = {
     "alexnet1": models.alexnet,
     "alexnet": models.alexnet,
     "resnet18": models.resnet18,
+    "resnet34": models.resnet34,
     "resnet50": models.resnet50,
     "vgg11": models.vgg11,
     "vgg16": models.vgg16,
+    "mobilenet_v2": models.mobilenet_v2,
+    "squeezenet1_1": models.squeezenet1_1,
     "densenet121": models.densenet121,
 }
 

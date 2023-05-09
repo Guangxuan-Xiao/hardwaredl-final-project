@@ -60,12 +60,12 @@ mapping:
     permutation: RSCMNPQ
   - target: shared_glb
     type: spatial
-    factors: C3 M16 R1 S1 N1 P1 Q1
+    factors: C3 M8 R1 S1 N1 P1 Q1
     permutation: CMRSNPQ
     split: 1
   - target: shared_glb
     type: temporal
-    factors: C1 M4 R1 S1 N1 P55 Q11
+    factors: C1 M8 R1 S1 N1 P55 Q11
     permutation: QPMCRSN
   - target: DRAM
     type: temporal

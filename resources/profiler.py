@@ -294,7 +294,7 @@ class Profiler(object):
                 f"{self.base_dir/self.timeloop_dir/'arch/components/*.yaml'} "
                 f"{self.base_dir/self.timeloop_dir/'mapper/mapper.yaml'} "
                 f"{constraint_pth} "
-                f"{self.base_dir/self.top_dir/self.sub_dir/self.sub_dir}_layer{layer_id}.yaml > /dev/null 2>&1"
+                f"{self.base_dir/self.top_dir/self.sub_dir/self.sub_dir}_layer{layer_id}.yaml"
             )
             return [cwd, timeloopcmd]
 
