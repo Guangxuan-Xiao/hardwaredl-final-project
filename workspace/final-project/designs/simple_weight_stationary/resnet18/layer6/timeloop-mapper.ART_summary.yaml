@@ -30,7 +30,7 @@ ART_summary:
     - name: storage
       estimator: Aladdin_table
   - name: system.simple_ws.shared_glb
-    area: 3087.39
+    area: 1162549.0
     primitive_estimations:
     - name: storage
       estimator: Cacti

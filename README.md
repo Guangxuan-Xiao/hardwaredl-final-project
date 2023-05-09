@@ -1,5 +1,6 @@
 # Benchmarking ImageNet Classification Models 
 
+6.5930 Hardware Arch for Deep Learning Final Project
 # Authors: Guangxuan Xiao, Tianwei Yin
 
 # Workloads 
@@ -8,11 +9,13 @@
 
 We evalaute the accuracy of the pretrained models on ImageNet validation set using [accuracy_evalution/test.py](accuracy_evalution/test.py).
 
-## Workload Generation
-
 ## Timeloop Profiling
 
-All profiling 
+```bash
+docker-compose pull
+docker-compose up
 
-
+cd final-project
+bash scripts/profile_all.sh
+```
 

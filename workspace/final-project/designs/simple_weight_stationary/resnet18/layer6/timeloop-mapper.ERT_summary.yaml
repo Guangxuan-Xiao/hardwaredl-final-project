@@ -70,15 +70,15 @@ ERT_summary:
   - name: system.simple_ws.shared_glb
     actions:
     - name: write
-      average_energy: 0.56725
-      max_energy: 1.08538
-      min_energy: 0.04912
+      average_energy: 37.63497
+      max_energy: 75.2148
+      min_energy: 0.05514
     - name: read
-      average_energy: 0.38813
-      max_energy: 0.72713
-      min_energy: 0.04912
+      average_energy: 37.09967
+      max_energy: 74.1442
+      min_energy: 0.05514
     - name: idle
-      energy: 0.01222
+      energy: 0.01824
     primitive_estimation(s):
     - name: storage
       estimator: Cacti

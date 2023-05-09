@@ -14,4 +14,4 @@ ART:
   - name: system.simple_ws.PE[0..255].output_activation_reg
     area: 5.98
   - name: system.simple_ws.shared_glb
-    area: 3087.39
+    area: 1162549.0

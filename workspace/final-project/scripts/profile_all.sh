@@ -1,4 +1,4 @@
-DESIGNS="simple_weight_stationary"
+DESIGNS="simple_weight_stationary eyeriss"
 NETS="squeezenet1_1 resnet18 alexnet"
 for net in $NETS; do
     for design in $DESIGNS; do

@@ -420,15 +420,25 @@
 						</write_bandwidth>
 						<energy_per_algorithmic_access>
 							<PerDataSpace>
+<<<<<<< HEAD
 								<item>-nan</item>
 								<item>-nan</item>
+=======
+								<item>nan</item>
+								<item>nan</item>
+>>>>>>> cda86f4 (final commit)
 								<item>9.74972518844221092e-01</item>
 							</PerDataSpace>
 						</energy_per_algorithmic_access>
 						<energy_per_access>
 							<PerDataSpace>
+<<<<<<< HEAD
 								<item>-nan</item>
 								<item>-nan</item>
+=======
+								<item>nan</item>
+								<item>nan</item>
+>>>>>>> cda86f4 (final commit)
 								<item>9.74972518844221092e-01</item>
 							</PerDataSpace>
 						</energy_per_access>
@@ -862,16 +872,28 @@
 						</write_bandwidth>
 						<energy_per_algorithmic_access>
 							<PerDataSpace>
+<<<<<<< HEAD
 								<item>-nan</item>
 								<item>9.74972518844221092e-01</item>
 								<item>-nan</item>
+=======
+								<item>nan</item>
+								<item>9.74972518844221092e-01</item>
+								<item>nan</item>
+>>>>>>> cda86f4 (final commit)
 							</PerDataSpace>
 						</energy_per_algorithmic_access>
 						<energy_per_access>
 							<PerDataSpace>
+<<<<<<< HEAD
 								<item>-nan</item>
 								<item>9.74972518844221092e-01</item>
 								<item>-nan</item>
+=======
+								<item>nan</item>
+								<item>9.74972518844221092e-01</item>
+								<item>nan</item>
+>>>>>>> cda86f4 (final commit)
 							</PerDataSpace>
 						</energy_per_access>
 						<energy>
@@ -1305,15 +1327,25 @@
 						<energy_per_algorithmic_access>
 							<PerDataSpace>
 								<item>9.74972518844221092e-01</item>
+<<<<<<< HEAD
 								<item>-nan</item>
 								<item>-nan</item>
+=======
+								<item>nan</item>
+								<item>nan</item>
+>>>>>>> cda86f4 (final commit)
 							</PerDataSpace>
 						</energy_per_algorithmic_access>
 						<energy_per_access>
 							<PerDataSpace>
 								<item>9.74972518844221092e-01</item>
+<<<<<<< HEAD
 								<item>-nan</item>
 								<item>-nan</item>
+=======
+								<item>nan</item>
+								<item>nan</item>
+>>>>>>> cda86f4 (final commit)
 							</PerDataSpace>
 						</energy_per_access>
 						<energy>
@@ -1761,15 +1793,25 @@
 						<energy_per_algorithmic_access>
 							<PerDataSpace>
 								<item>1.58551999999999982e+00</item>
+<<<<<<< HEAD
 								<item>-nan</item>
 								<item>-nan</item>
+=======
+								<item>nan</item>
+								<item>nan</item>
+>>>>>>> cda86f4 (final commit)
 							</PerDataSpace>
 						</energy_per_algorithmic_access>
 						<energy_per_access>
 							<PerDataSpace>
 								<item>1.58551999999999982e+00</item>
+<<<<<<< HEAD
 								<item>-nan</item>
 								<item>-nan</item>
+=======
+								<item>nan</item>
+								<item>nan</item>
+>>>>>>> cda86f4 (final commit)
 							</PerDataSpace>
 						</energy_per_access>
 						<energy>
@@ -2236,14 +2278,22 @@
 							<PerDataSpace>
 								<item>1.86029624999999967e+01</item>
 								<item>1.85502639752103065e+01</item>
+<<<<<<< HEAD
 								<item>-nan</item>
+=======
+								<item>nan</item>
+>>>>>>> cda86f4 (final commit)
 							</PerDataSpace>
 						</energy_per_algorithmic_access>
 						<energy_per_access>
 							<PerDataSpace>
 								<item>1.86029624999999967e+01</item>
 								<item>1.85502639752103065e+01</item>
+<<<<<<< HEAD
 								<item>-nan</item>
+=======
+								<item>nan</item>
+>>>>>>> cda86f4 (final commit)
 							</PerDataSpace>
 						</energy_per_access>
 						<energy>
