@@ -1,5 +1,5 @@
-DESIGNS="eyeriss_like simple_output_stationary simple_weight_stationary simba_like"
-NETS="alexnet vgg11 resnet18 squeezenet1_1"
+DESIGNS="simple_weight_stationary"
+NETS="squeezenet1_1 resnet18 alexnet"
 for net in $NETS; do
     for design in $DESIGNS; do
         echo "Profiling $design $net"
