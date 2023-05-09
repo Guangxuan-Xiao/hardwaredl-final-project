@@ -9,7 +9,7 @@ MIT 6.5930 Hardware Arch for Deep Learning Final Project
 
 We evalaute the accuracy of the pretrained models on ImageNet validation set using [accuracy_evalution/test.py](accuracy_evalution/test.py).
 
-## Timeloop Profiling
+## Neural Network Profiling
 
 ```bash
 docker-compose pull
